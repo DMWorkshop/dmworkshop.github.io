@@ -2,7 +2,10 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Assessing the interplay of social media on mental health 1st edition (2026)</b>
+subtitle: >
+ <p>Assessing the interplacy of social media on mental health</p>
+    <p>1st Edition (2026)</p>
+    <p>AAAI ICWSM Workshop</p>
 
 profile:
   align: right
@@ -19,8 +22,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-# Digital Minds: Assessing the Interplay of Social Media and Mental Health  
-**AAAI ICWSM 2026 Workshop**
+<!-- # Digital Minds: Assessing the Interplay of Social Media and Mental Health  
+**AAAI ICWSM 2026 Workshop** -->
 
 ---
 
