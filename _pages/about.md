@@ -52,8 +52,6 @@ Special emphasis will be placed on:
 - The role of **recommender systems and platform design**
 
 ---
-
-## Topics of Interest
 <div style="
   background-color: #e6f4ea; /* soft green */
   border-left: 4px solid #3c8d0d; /* darker green accent */
@@ -121,7 +119,7 @@ Foster collaboration across computational and social sciences to develop interpr
   <div style="text-align: center;">
     <a href="https://kdd.isti.cnr.it/people/morini-virginia">
       <img src="/assets/custom_images/morini.jpg"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid gray;">
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
     </a>
     <div style="margin-top:10px;">
       <a href="https://kdd.isti.cnr.it/people/morini-virginia"><b>Virginia Morini</b></a>
@@ -133,7 +131,7 @@ Foster collaboration across computational and social sciences to develop interpr
   <div style="text-align: center;">
     <a href="http://pages.di.unipi.it/citraro/">
       <img src="/assets/custom_images/citraro.jpeg"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid gray;">
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
     </a>
     <div style="margin-top:10px;">
       <a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a>
@@ -145,7 +143,7 @@ Foster collaboration across computational and social sciences to develop interpr
   <div style="text-align: center;">
     <a href="https://kdd.isti.cnr.it/people/pansanella-valentina">
       <img src="/assets/custom_images/pansanella.jpeg"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid gray;">
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
     </a>
     <div style="margin-top:10px;">
       <a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a>
@@ -157,7 +155,7 @@ Foster collaboration across computational and social sciences to develop interpr
   <div style="text-align: center;">
     <a href="http://giuliorossetti.github.io/">
       <img src="/assets/custom_images/Rossetti1.jpg"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid gray;">
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
     </a>
     <div style="margin-top:10px;">
       <a href="http://giuliorossetti.github.io/"><b>Giulio Rossetti</b></a>
@@ -169,19 +167,19 @@ Foster collaboration across computational and social sciences to develop interpr
   <div style="text-align: center;">
     <a href="https://docenti.unicatt.it/ppd2/it/docenti/89083/maria-sansoni/profilo">
       <img src="/assets/custom_images/maria_foto.png"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid gray;">
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
     </a>
     <div style="margin-top:10px;">
       <a href="https://docenti.unicatt.it/ppd2/it/docenti/89083/maria-sansoni/profilo"><b>Maria Sansoni</b></a>
     </div>
-    <div>Catholic University of the Sacred Hearth</div>
+    <div>Catholic University<br>of the Sacred Hearth</div>
   </div>
   
   <!-- Maria -->
   <div style="text-align: center;">
     <a href="https://kdd.isti.cnr.it/people/pedreschi-dino">
       <img src="/assets/custom_images/dino_foto.jpg"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid gray;">
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
     </a>
     <div style="margin-top:10px;">
       <a href="https://kdd.isti.cnr.it/people/pedreschi-dino"><b>Dino Pedreschi</b></a>
