@@ -15,6 +15,9 @@ The committee is responsible for reviewing submissions and providing feedback to
 
 #### (Confirmed) Program Committee
 
+**TBA**
+
+<!-- 
 <ul>
     <li>Dino Pedreschi, University of Pisa, Italy</li>
     <li>Letizia Milli, Università di Pisa, Italy</li>
@@ -24,7 +27,7 @@ The committee is responsible for reviewing submissions and providing feedback to
     <li>Luca Pappalardo, CNR-ISTI, Italy</li>
     <li>Laura Pollacci, Università di Pisa, Italy</li>
     <li>Erica Cau, Università di Pisa, Italy</li>
-</ul>
+</ul> -->
 
 ### Join the Program Committee
 
