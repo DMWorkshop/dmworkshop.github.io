@@ -125,18 +125,6 @@ Foster collaboration across computational and social sciences to develop interpr
     <div>University of Pisa</div>
   </div>
 
-  <!-- Salvatore -->
-  <div style="text-align: center;">
-    <a href="http://pages.di.unipi.it/citraro/">
-      <img src="/assets/custom_images/citraro.jpeg"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
-    </a>
-    <div style="margin-top:10px;">
-      <a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a>
-    </div>
-    <div>CNR-ISTI</div>
-  </div>
-
   <!-- Valentina -->
   <div style="text-align: center;">
     <a href="https://kdd.isti.cnr.it/people/pansanella-valentina">
@@ -145,6 +133,31 @@ Foster collaboration across computational and social sciences to develop interpr
     </a>
     <div style="margin-top:10px;">
       <a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a>
+    </div>
+    <div>CNR-ISTI</div>
+  </div>
+
+ <!-- Maria -->
+  <div style="text-align: center;">
+    <a href="https://kdd.isti.cnr.it/people/pedreschi-dino">
+      <img src="/assets/custom_images/dino_foto.jpg"
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
+    </a>
+    <div style="margin-top:10px;">
+      <a href="https://kdd.isti.cnr.it/people/pedreschi-dino"><b>Dino Pedreschi</b></a>
+    </div>
+    <div>University of Pisa</div>
+  </div>
+
+</div>
+  <!-- Salvatore -->
+  <div style="text-align: center;">
+    <a href="http://pages.di.unipi.it/citraro/">
+      <img src="/assets/custom_images/citraro.jpeg"
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
+    </a>
+    <div style="margin-top:10px;">
+      <a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a>
     </div>
     <div>CNR-ISTI</div>
   </div>
@@ -173,16 +186,4 @@ Foster collaboration across computational and social sciences to develop interpr
     <div>Catholic University<br>of the Sacred Hearth</div>
   </div>
   
-  <!-- Maria -->
-  <div style="text-align: center;">
-    <a href="https://kdd.isti.cnr.it/people/pedreschi-dino">
-      <img src="/assets/custom_images/dino_foto.jpg"
-           style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
-    </a>
-    <div style="margin-top:10px;">
-      <a href="https://kdd.isti.cnr.it/people/pedreschi-dino"><b>Dino Pedreschi</b></a>
-    </div>
-    <div>University of Pisa</div>
-  </div>
-
-</div>
+ 
