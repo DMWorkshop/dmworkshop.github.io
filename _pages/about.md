@@ -93,69 +93,92 @@ Foster collaboration across computational and social sciences to develop interpr
 <b>Camera-Ready:</b> TBA <br/> 
 
 ---
-
-<div style="float: none; width: 100%; text-align: center"> 
-    <b>Supporting Research Projects</b>
-</div>
-<div style="float: none; width: 100%; text-align: center">
-<a href="http://sobigdata.eu/"><img src="assets/custom_images/SBD.png" style="width: 350px;"></a>
-<a href="https://pnrr.sobigdata.it/"><img src="assets/custom_images/SBDit.png" style="width: 350px;"></a>
-<img src="assets/custom_images/sbdit-head.png" style="width: 700px;">
-</div>
----
-<div style="width: 100%; text-align: center"> 
-<b>Workshop Co-Chairs</b>
-</div>  
-<div style="width: 100%; padding-left: 13%; text-align: center">
-
-
-<div style="float: left; margin: 10px">
-<a href="https://kdd.isti.cnr.it/people/morini-virginia">
-  <img src="assets/custom_images/morini.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/morini-virginia"><b>Virginia Morini</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
+<div style="width: 100%; text-align: center;">
+  <b>Workshop Co-Chairs</b>
 </div>
 
-<div style="float: left; margin: 10px">
-<a href="http://pages.di.unipi.it/citraro/">
-  <img src="assets/custom_images/citraro.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
-</div>
+<div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 30px; margin-top: 20px;">
 
-<div style="float: left; margin: 10px">
-<a href="https://kdd.isti.cnr.it/people/pansanella-valentina">
-  <img src="assets/custom_images/pansanella.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
-</div>
+  <!-- FIRST ROW (4 people) -->
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<div style="float: left; margin: 10px">
-<a href="http://giuliorossetti.github.io/">
-  <img src="assets/custom_images/Rossetti1.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="http://giuliorossetti.github.io/"><b>Giulio Rossetti</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
-</div>
+    <!-- Virginia -->
+    <div style="text-align: center;">
+      <a href="https://kdd.isti.cnr.it/people/morini-virginia">
+        <img src="assets/custom_images/morini.jpg"
+             style="border: 2px solid gray; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      </a>
+      <div style="margin-top: 10px;">
+        <a href="https://kdd.isti.cnr.it/people/morini-virginia"><b>Virginia Morini</b></a>
+      </div>
+      <div>University of Pisa</div>
+    </div>
 
-<div style="float: left; margin: 10px">
-<a href="">
-  <img src="assets/custom_images/maria_foto.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Maria Sansoni</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>Catholic University of The Sacred Heart</p></span>
-</div>
+    <!-- Valentina -->
+    <div style="text-align: center;">
+      <a href="https://kdd.isti.cnr.it/people/pansanella-valentina">
+        <img src="assets/custom_images/pansanella.jpeg"
+             style="border: 2px solid gray; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      </a>
+      <div style="margin-top: 10px;">
+        <a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a>
+      </div>
+      <div>CNR-ISTI</div>
+    </div>
 
-<div style="float: left; margin: 10px">
-<a href="">
-  <img src="assets/custom_images/dino_foto.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Dino Pedreschi</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
-</div>
+    <!-- Maria -->
+    <div style="text-align: center;">
+      <a href="https://docenti.unicatt.it/ppd2/it/docenti/89083/maria-sansoni/profilo">
+        <img src="assets/custom_images/maria_foto.png"
+             style="border: 2px solid gray; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      </a>
+      <div style="margin-top: 10px;">
+        <a href="https://docenti.unicatt.it/ppd2/it/docenti/89083/maria-sansoni/profilo"><b>Maria Sansoni</b></a>
+      </div>
+      <div>Catholic University of the Sacred Heart</div>
+    </div>
 
+    <!-- Salvatore -->
+    <div style="text-align: center;">
+      <a href="http://pages.di.unipi.it/citraro/">
+        <img src="assets/custom_images/citraro.jpeg"
+             style="border: 2px solid gray; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      </a>
+      <div style="margin-top: 10px;">
+        <a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a>
+      </div>
+      <div>CNR-ISTI</div>
+    </div>
+
+  </div>
+
+  <!-- SECOND ROW (2 centered) -->
+  <div style="display: flex; justify-content: center; gap: 60px;">
+
+    <!-- Giulio -->
+    <div style="text-align: center;">
+      <a href="http://giuliorossetti.github.io/">
+        <img src="assets/custom_images/Rossetti1.jpg"
+             style="border: 2px solid gray; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      </a>
+      <div style="margin-top: 10px;">
+        <a href="http://giuliorossetti.github.io/"><b>Giulio Rossetti</b></a>
+      </div>
+      <div>CNR-ISTI</div>
+    </div>
+
+    <!-- Dino -->
+    <div style="text-align: center;">
+      <a href="https://kdd.isti.cnr.it/people/pedreschi-dino">
+        <img src="assets/custom_images/dino_foto.jpg"
+             style="border: 2px solid gray; width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      </a>
+      <div style="margin-top: 10px;">
+        <a href="https://kdd.isti.cnr.it/people/pedreschi-dino"><b>Dino Pedreschi</b></a>
+      </div>
+      <div>University of Pisa</div>
+    </div>
+
+  </div>
 
 </div>
