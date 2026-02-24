@@ -22,15 +22,25 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-## Workshop Description
+<div style="
+  background-color: #e6f4ea; /* soft green */
+  color: #1a3e1d; /* dark green text */
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 30px 0 10px 0;
+  font-size: 1.5em;
+  font-weight: bold;
+">
+  Workshop Description
+</div>
 
-Social media platforms such as Instagram, TikTok, and YouTube are deeply embedded in everyday life. While they enable connection, creativity, and peer support, they are also increasingly associated with anxiety, depression, body image concerns, and exposure to harmful content—especially among minors.
+<p>Social media platforms such as Instagram, TikTok, and YouTube are deeply embedded in everyday life. While they enable connection, creativity, and peer support, they are also increasingly associated with anxiety, depression, body image concerns, and exposure to harmful content—especially among minors.
 
 Public debate often frames social media as either “good” or “bad” for mental health. However, the reality is more complex. Platform design, recommender systems, moderation policies, and user behaviors interact in ways that can produce both harmful and supportive outcomes. Engagement-driven algorithms may amplify emotionally intense content and create feedback loops, yet the same systems can also connect vulnerable individuals to communities of care and recovery.
 
 The **Digital Minds** workshop at AAAI ICWSM 2026 aims to move beyond correlational evidence and simplistic narratives. Our goal is to understand the mechanisms linking online social media environments and mental health, and to explore how computational methods can help uncover risks while strengthening supportive dynamics.
 
-We welcome interdisciplinary contributions from computational social science, psychology, sociology, human-centered AI, and related fields.
+We welcome interdisciplinary contributions from computational social science, psychology, sociology, human-centered AI, and related fields.<p>
 
 ---
 
