@@ -54,18 +54,26 @@ Special emphasis will be placed on:
 ---
 
 ## Topics of Interest
-
-We invite original contributions at the intersection of computational methods and mental health research, including but not limited to:
-
-- NLP and machine learning methods to detect mental health signals  
-- Modeling psychological effects of social media, especially for vulnerable users  
-- Auditing recommender systems and content moderation mechanisms  
-- Analysis of online mental health communities and peer support dynamics  
-- Design and evaluation of platform-level interventions  
-- Dataset creation and benchmarking for mental health research  
-- Causal inference and experimental approaches in online environments  
-- Ethical, privacy, and governance challenges  
-
+<div style="
+  background-color: #e6f4ea; /* soft green */
+  border-left: 4px solid #3c8d0d; /* darker green accent */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 30px;
+">
+  <h2 style="margin-top: 0;">Topics of Interest</h2>
+  <p>We invite original contributions at the intersection of computational methods and mental health research, including but not limited to:</p>
+  <ul>
+    <li>NLP and machine learning methods to detect mental health signals</li>
+    <li>Modeling psychological effects of social media, especially for vulnerable users</li>
+    <li>Auditing recommender systems and content moderation mechanisms</li>
+    <li>Analysis of online mental health communities and peer support dynamics</li>
+    <li>Design and evaluation of platform-level interventions</li>
+    <li>Dataset creation and benchmarking for mental health research</li>
+    <li>Causal inference and experimental approaches in online environments</li>
+    <li>Ethical, privacy, and governance challenges</li>
+  </ul>
+</div>
 ---
 
 ## Objectives
@@ -101,12 +109,12 @@ Foster collaboration across computational and social sciences to develop interpr
 <div style="
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;  /* instead of center */
   align-items: flex-start;
   gap: 30px;
-  flex-wrap: nowrap;
   overflow-x: auto;
   margin-top: 20px;
+  padding-left: 10px;           /* optional for slight left padding */
 ">
 
   <!-- Virginia -->
