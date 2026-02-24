@@ -6,7 +6,7 @@ subtitle: <b>Unraveling the Impact of Social Media on Human Behavior - 2nd Editi
 
 profile:
   align: right
-  image: assets/img/dm_prof_pic.png
+  image: /../assets/img/dm_prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>DM International Workshop</p>
@@ -97,10 +97,10 @@ Foster collaboration across computational and social sciences to develop interpr
   <b>Workshop Co-Chairs</b>
 </div>
 
-<div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 30px; margin-top: 20px;">
+<div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
 
   <!-- FIRST ROW (4 people) -->
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
     <!-- Virginia -->
     <div style="text-align: center;">
@@ -149,11 +149,6 @@ Foster collaboration across computational and social sciences to develop interpr
       </div>
       <div>CNR-ISTI</div>
     </div>
-
-  </div>
-
-  <!-- SECOND ROW (2 centered) -->
-  <div style="display: flex; justify-content: center; gap: 60px;">
 
     <!-- Giulio -->
     <div style="text-align: center;">
