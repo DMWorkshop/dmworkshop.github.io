@@ -4,19 +4,14 @@ title: Home
 permalink: /
 subtitle: >
  <p>Assessing the interplacy of social media on mental health</p>
-    <p>1st Edition (2026)</p>
-    <p>AAAI ICWSM Workshop</p>
+    <p>1st Edition</p>
+    <p>@ the 20th International AAAI Conference on Web and Social Media (ICWSM)</p>
+    <p>May 26th, 2026. Los Angeles, CA, USA</p>
 
 profile:
   align: right
   image: dm_prof_pic.png
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>DM International Workshop</p>
-    <p><a href="https://www.icwsm.org/2026/index.html">The 20th International AAAI Conference on Web and Social Media (ICWSM)</a></p>
-    <p>May 26th, 2026</p>
-    <p>Los Angeles, CA, USA</p>
-
+  image_circular: true # crops the image to make it circular
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
