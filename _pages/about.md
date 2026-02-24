@@ -3,28 +3,23 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
- <p>Assessing the interplacy of social media on mental health</p>
-    <p>1st Edition</p>
-    <p>@ the 20th International AAAI Conference on Web and Social Media (ICWSM)</p>
-    <p>May 26th, 2026. Los Angeles, CA, USA</p>
+  <p>Assessing the interplay of social media on mental health</p>
+  <p>1st Edition</p>
+  <p>@ the 20th International AAAI Conference on Web and Social Media (ICWSM)</p>
+  <p>May 26th, 2026. Los Angeles, CA, USA</p>
 
 profile:
   align: right
   image: dm_prof_pic.png
-  image_circular: true # crops the image to make it circular
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
----
-
-<!-- # Digital Minds: Assessing the Interplay of Social Media and Mental Health  
-**AAAI ICWSM 2026 Workshop** -->
-
+  image_circular: true
+news: false
+selected_papers: false
+social: false
 ---
 
 <div style="
-  background-color: #e6f4ea; /* soft green */
-  color: #1a3e1d; /* dark green text */
+  background-color: #e6f4ea;
+  color: #1a3e1d;
   padding: 10px 20px;
   border-radius: 5px;
   margin: 30px 0 10px 0;
@@ -34,20 +29,19 @@ social: false  # includes social icons at the bottom of the page
   Workshop Description
 </div>
 
-<p> <strong>Social media platforms</strong> such as Instagram, TikTok, and YouTube are deeply embedded in everyday life. While they enable connection, creativity, and peer support, they are also increasingly associated with anxiety, depression, body image concerns, and exposure to harmful content—especially among minors.
+<p><strong>Social media platforms</strong> such as Instagram, TikTok, and YouTube are deeply embedded in everyday life. While they enable connection, creativity, and peer support, they are also increasingly associated with anxiety, depression, body image concerns, and exposure to harmful content—especially among minors.</p>
 
-Public debate often frames social media as either “good” or “bad” for <strong>mental health</strong>. However, the reality is more complex. Platform design, recommender systems, moderation policies, and user behaviors interact in ways that can produce <strong>both harmful and supportive outcomes</strong>. Engagement-driven algorithms may amplify emotionally intense content and create feedback loops, yet the same systems can also connect vulnerable individuals to communities of care and recovery.
+<p>Public debate often frames social media as either “good” or “bad” for <strong>mental health</strong>. However, the reality is more complex. Platform design, recommender systems, moderation policies, and user behaviors interact in ways that can produce <strong>both harmful and supportive outcomes</strong>. Engagement-driven algorithms may amplify emotionally intense content and create feedback loops, yet the same systems can also connect vulnerable individuals to communities of care and recovery.</p>
 
-The <strong>Digital Minds</strong> workshop at 
-<a href="https://www.icwsm.org/2026/" target="_blank">AAAI ICWSM 2026</a> 
-aims to move beyond correlational evidence and simplistic narratives. Our goal is to understand the mechanisms linking online social media environments and mental health, and to explore how computational methods can help uncover risks while strengthening supportive dynamics.
+<p>The <strong>Digital Minds</strong> workshop at 
+<a href="https://www.icwsm.org/2026/" target="_blank">AAAI ICWSM 2026</a>
+aims to move beyond correlational evidence and simplistic narratives. Our goal is to understand the mechanisms linking online social media environments and mental health, and to explore how computational methods can help uncover risks while strengthening supportive dynamics.</p>
 
-We welcome interdisciplinary contributions from computational social science, psychology, sociology, human-centered AI, and related fields.<p>
-
+<p>We welcome interdisciplinary contributions from computational social science, psychology, sociology, human-centered AI, and related fields.</p>
 
 <div style="
-  background-color: #e6f4ea; /* soft green */
-  color: #1a3e1d; /* dark green text */
+  background-color: #e6f4ea;
+  color: #1a3e1d;
   padding: 10px 20px;
   border-radius: 5px;
   margin: 30px 0 10px 0;
@@ -57,8 +51,7 @@ We welcome interdisciplinary contributions from computational social science, ps
   Scope
 </div>
 
-<p>
-The workshop focuses on two complementary perspectives:
+<p>The workshop focuses on two complementary perspectives:</p>
 
 - **Online Social Media as a Tool to Study Mental Health**  
   Leveraging digital traces, online discourse, and behavioral signals to assess mental health conditions and well-being at scale.
@@ -66,16 +59,14 @@ The workshop focuses on two complementary perspectives:
 - **Online Social Media as a Factor Shaping Mental Health**  
   Examining its dual role as a supportive environment (peer support, help-seeking, stigma reduction) and as a potential source of harm (anxiety, depression, exposure to harmful content).
 
-Special emphasis will be placed on:
+<p>Special emphasis will be placed on:</p>
 
 - The impact of social media on **minors’ mental health**
 - The role of **recommender systems and platform design**
-<p>
-
 
 <div style="
-  background-color: #e6f4ea; /* soft green */
-  border-left: 4px solid #3c8d0d; /* darker green accent */
+  background-color: #e6f4ea;
+  border-left: 4px solid #3c8d0d;
   padding: 20px;
   border-radius: 8px;
   margin-top: 30px;
@@ -94,10 +85,9 @@ Special emphasis will be placed on:
   </ul>
 </div>
 
-
 <div style="
-  background-color: #e6f4ea; /* soft green */
-  color: #1a3e1d; /* dark green text */
+  background-color: #e6f4ea;
+  color: #1a3e1d;
   padding: 10px 20px;
   border-radius: 5px;
   margin: 30px 0 10px 0;
@@ -107,8 +97,7 @@ Special emphasis will be placed on:
   Objectives
 </div>
 
-
-The Digital Minds workshop aims to:
+<p>The Digital Minds workshop aims to:</p>
 
 **Advance Data-Driven Mental Health Research**  
 Promote robust, scalable, and ethically grounded approaches to studying mental health using online data.
@@ -122,12 +111,9 @@ Analyze how personalization, engagement optimization, and moderation shape psych
 **Bridge Disciplines and Methods**  
 Foster collaboration across computational and social sciences to develop interpretable and actionable insights.
 
-
-
-
 <div style="
-  background-color: #f9ecd4; /* soft green */
-  color: #da3826;
+  background-color: #da3826;
+  color: #f9ecd4;
   padding: 10px 20px;
   border-radius: 5px;
   margin: 30px 0 10px 0;
@@ -141,8 +127,6 @@ Foster collaboration across computational and social sciences to develop interpr
 <b>Author notification:</b> April 15, 2026 <br/>
 <b>Camera-Ready:</b> TBD <br/> 
 
----
-
 <div style="width: 100%; text-align: center;">
   <b>Workshop Co-Chairs</b>
 </div>
@@ -150,12 +134,12 @@ Foster collaboration across computational and social sciences to develop interpr
 <div style="
   width: 100%;
   display: flex;
-  justify-content: flex-start;  /* instead of center */
+  justify-content: flex-start;
   align-items: flex-start;
   gap: 30px;
   overflow-x: auto;
   margin-top: 20px;
-  padding-left: 10px;           /* optional for slight left padding */
+  padding-left: 10px;
 ">
 
   <!-- Virginia -->
@@ -182,7 +166,7 @@ Foster collaboration across computational and social sciences to develop interpr
     <div>CNR-ISTI</div>
   </div>
 
- <!-- Maria -->
+  <!-- Dino -->
   <div style="text-align: center;">
     <a href="https://kdd.isti.cnr.it/people/pedreschi-dino">
       <img src="/assets/custom_images/dino_foto.jpg"
@@ -194,7 +178,6 @@ Foster collaboration across computational and social sciences to develop interpr
     <div>University of Pisa</div>
   </div>
 
-</div>
   <!-- Salvatore -->
   <div style="text-align: center;">
     <a href="http://pages.di.unipi.it/citraro/">
@@ -230,5 +213,5 @@ Foster collaboration across computational and social sciences to develop interpr
     </div>
     <div>Catholic University<br>of the Sacred Hearth</div>
   </div>
-  
- 
+
+</div>
