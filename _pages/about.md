@@ -44,7 +44,6 @@ aims to move beyond correlational evidence and simplistic narratives. Our goal i
 
 We welcome interdisciplinary contributions from computational social science, psychology, sociology, human-centered AI, and related fields.<p>
 
----
 
 <div style="
   background-color: #e6f4ea; /* soft green */
@@ -73,7 +72,7 @@ Special emphasis will be placed on:
 - The role of **recommender systems and platform design**
 <p>
 
----
+
 <div style="
   background-color: #e6f4ea; /* soft green */
   border-left: 4px solid #3c8d0d; /* darker green accent */
@@ -94,7 +93,7 @@ Special emphasis will be placed on:
     <li>Ethical, privacy, and governance challenges</li>
   </ul>
 </div>
----
+
 
 <div style="
   background-color: #e6f4ea; /* soft green */
@@ -105,10 +104,10 @@ Special emphasis will be placed on:
   font-size: 1.5em;
   font-weight: bold;
 ">
-  Workshop Description
+  Objectives
 </div>
 
-<p>
+
 The Digital Minds workshop aims to:
 
 **Advance Data-Driven Mental Health Research**  
@@ -122,11 +121,22 @@ Analyze how personalization, engagement optimization, and moderation shape psych
 
 **Bridge Disciplines and Methods**  
 Foster collaboration across computational and social sciences to develop interpretable and actionable insights.
-<p>
----
 
 
-##### Important Dates
+
+
+<div style="
+  background-color: #f9ecd4; /* soft green */
+  color: #da3826;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 30px 0 10px 0;
+  font-size: 1.5em;
+  font-weight: bold;
+">
+  Important Dates
+</div>
+
 <b>Paper submission:</b> April 1, 2026 <br/>
 <b>Author notification:</b> April 15, 2026 <br/>
 <b>Camera-Ready:</b> TBD <br/> 
