@@ -88,9 +88,9 @@ Foster collaboration across computational and social sciences to develop interpr
 
 
 ##### Important Dates
-<b>Paper submission:</b> April 10, 2026 <br/>
+<b>Paper submission:</b> April , 2026 <br/>
 <b>Author notification:</b> April 15, 2026 <br/>
-<b>Camera-Ready:</b> May 25, 2026 <br/> 
+<b>Camera-Ready:</b> TBA <br/> 
 
 ---
 
@@ -141,6 +141,21 @@ Foster collaboration across computational and social sciences to develop interpr
   <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
 </div>
 
+<div style="float: left; margin: 10px">
+<a href="">
+  <img src="assets/custom_images/maria_foto.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Maria Sansoni</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Catholic University of The Sacred Heart</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="">
+  <img src="assets/custom_images/dino_foto.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Dino Pedreschi</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
+</div>
 
 
 </div>

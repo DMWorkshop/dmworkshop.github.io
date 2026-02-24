@@ -12,7 +12,7 @@ nav_order: 2
 
 We invite three types of submissions:
 
-1. **Full papers** (up to 8 pages)  
+1. **Full papers** (up to 11 pages)  
 2. **Short papers** (up to 4 pages; preliminary work or case studies)  
 3. **Extended abstracts** (up to 2 pages; ongoing research, published work, or emerging ideas)
 
@@ -26,7 +26,7 @@ Paper submissions (full, short, and abstract) must use the <a href=""> </a>, inc
 Submissions should include the title, author(s), affiliation(s), e-mail address(es), tel/fax numbers, abstract, and postal address(es) on the first page.
 All submissions will be reviewed by the Program Committee based on technical quality, relevance to the workshop's scope, originality, significance, and clarity. 
 
-Submit your contribution through <a href=""></a>.
+Submit your contribution through <a href=""> </a>.
 {: .alert .alert-info}
 
 ## Publication
