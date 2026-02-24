@@ -6,7 +6,7 @@ subtitle: <b>Unraveling the Impact of Social Media on Human Behavior - 2nd Editi
 
 profile:
   align: right
-  image: prof_pic.png
+  image: 
   image_circular: false # crops the image to make it circular
   address: >
     <p>DM International Workshop</p>
