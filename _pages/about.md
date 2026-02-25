@@ -181,14 +181,14 @@ Foster collaboration across computational and social sciences to develop interpr
 
   <!-- Salvatore -->
   <div style="text-align: center;">
-    <a href="http://pages.di.unipi.it/citraro/">
+    <a href="https://cognosco.dipsco.unitn.it/">
       <img src="/assets/custom_images/citraro.jpeg"
            style="width:150px; height:150px; object-fit:cover; border-radius:50%; border:2px solid #3c8d0d;">
     </a>
     <div style="margin-top:10px;">
-      <a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a>
+      <a href="https://cognosco.dipsco.unitn.it/"><b>Salvatore Citraro</b></a>
     </div>
-    <div>CNR-ISTI</div>
+    <div>CogNosco Lab, University of Trento</div>
   </div>
 
   <!-- Giulio -->
