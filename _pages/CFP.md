@@ -38,7 +38,7 @@ For complete formatting and policy details, authors should consult the official 
 - The paper checklist does not have to be included.  
 - For full papers, authors must ensure their work is original, not under review elsewhere, and compliant with ethical research standards.
 
-For submitting your contribution, follow this [Submission Link]().
+For submitting your contribution, follow this [Submission Link](https://easychair.org/conferences/?conf=dm2026).
 
 ---
 
