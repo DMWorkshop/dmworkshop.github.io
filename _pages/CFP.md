@@ -2,12 +2,9 @@
 layout: page
 permalink: /submission/
 title: Submissions
-description: Submission guidelines and important dates
 nav: true
 nav_order: 2
 ---
-
-# Submissions
 
 We welcome original contributions related to web and social media research. Please review the important dates, submission types, and guidelines carefully before submitting.
 
