@@ -2,40 +2,67 @@
 layout: page
 permalink: /submission/
 title: Submissions
-description: Submission guidelines and Publication information
+description: Submission guidelines and important dates
 nav: true
 nav_order: 2
 ---
-<hr>
 
-## What and how to submit:
+# Submissions
 
-**TBA**
+We welcome original contributions related to web and social media research. Please review the important dates, submission types, and guidelines carefully before submitting.
 
-<!-- We invite three types of submissions: -->
+For complete formatting and policy details, authors should consult the official [ICWSM Submission Guidelines](https://www.icwsm.org/2026/submit.html)
 
-<!-- 1. **Full papers** (up to 11 pages)  
-2. **Short papers** (up to 4 pages; preliminary work or case studies)  
-3. **Extended abstracts** (up to 2 pages; ongoing research, published work, or emerging ideas) -->
+---
 
+## Important Dates
 
-#### Submission Guidelines
+- **Paper Submission Deadline:** April 1, 2026  
+- **Author Notification:** April 15, 2026  
+- **Camera-Ready Deadline:** TBD  
 
-<!-- Authors are invited to submit original research papers which have not been published elsewhere and which are not currently under consideration for another journal, conference, or workshop in the full paper and short paper tracks. 
-Authors are encouraged to submit extended abstracts of ongoing research, published work, or emerging ideas. 
+---
 
-Paper submissions (full, short, and abstract) must use the <a href=""> </a>, including the bibliography and any possible appendices.
-Submissions should include the title, author(s), affiliation(s), e-mail address(es), tel/fax numbers, abstract, and postal address(es) on the first page.
-All submissions will be reviewed by the Program Committee based on technical quality, relevance to the workshop's scope, originality, significance, and clarity. 
+## Submission Types
 
-Submit your contribution through <a href=""> </a>.
-{: .alert .alert-info} -->
+### 1. Full Papers
+Full papers present substantial, original, and completed research contributions.
 
-**TBA**
+- Maximum length: **11 pages** (references included)  
+- Recommended length: **8 pages**  
 
-## Publication
-<!-- Accepted workshop papers will be published ???
+### 2. Extended Abstracts
+Extended abstracts are suitable for ongoing research, emerging ideas, demos, datasets or previously published work relevant for the workshop's scope.
 
-DM Co-Chairs are also open to the possibility of publishing a special issue of a journal for the best papers of the workshop ????  -->
+- Page limit and formatting requirements follow ICWSM guidelines
+- Should clearly state scope, contribution, and relevance  
 
-**TBA**
+---
+
+## Submission Guidelines
+
+- All submissions must follow the **AAAI two-column format**.  
+- Templates are available via:
+  - [Overleaf template](https://www.overleaf.com/latex/templates/aaai-authorkit25-anonymoussubmission/qxnjxxbvrjqr)
+  - [AAAI Author Kit](https://aaai.org/authorkit25/)  
+- Page limits include references.  
+- Submissions must be anonymized for **double-blind review**.  
+- The paper checklist does not have to be included.  
+- Appendices are optional and do not count toward the page limit; however, reviewers are not required to read them.
+- For full papers, authors must ensure their work is original, not under review elsewhere, and compliant with ethical research standards.
+
+For submitting your contribution, use [Easy Chair Submission Link]().
+
+---
+
+## Proceedings
+
+Accepted full papers will be included in the official workshop proceedings.
+
+- Final versions must follow camera-ready formatting instructions.  
+- At least one author must register and present the paper.  
+- Papers will be archived and made publicly available according to ICWSM publication policies.
+
+---
+
+If you have questions regarding submissions, please consult the official ICWSM guidelines or contact the organizing committee.
