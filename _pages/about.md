@@ -12,6 +12,7 @@ profile:
   align: right
   image: dm_prof_pic.png
   image_circular: true
+
 news: false
 selected_papers: false
 social: false
