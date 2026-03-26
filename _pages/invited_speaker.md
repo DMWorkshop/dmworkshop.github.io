@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Koustuv Saha
 
-<img src="" alt="Koustuv Saha" style="width:200px; border-radius:10px;">
+<img src="koustuv.jpg" alt="Koustuv Saha" style="width:200px; border-radius:10px;">
 
 Koustuv Saha is an Assistant Professor of Computer Science at the University of Illinois Urbana-Champaign, where he leads the OnCARE (Online and Connected AI Reflections) lab. His research lies at the intersection of computational social science, social computing, human-centered machine learning, and fairness, accountability, transparency, and ethics (FATE) in AI.
 
