@@ -124,7 +124,7 @@ Foster collaboration across computational and social sciences to develop interpr
   Important Dates
 </div>
 
-<b>Paper submission:</b> April 1, 2026 <br/>
+<b>Paper submission:</b> ~~April 1, 2026~~ April 5, 2026 <br/>
 <b>Author notification:</b> April 15, 2026 <br/>
 <b>Camera-Ready:</b> TBD <br/> 
 
