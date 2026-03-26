@@ -13,7 +13,7 @@ Please review the important dates, submission types, and guidelines carefully be
 
 ## Important Dates
 
-- **Paper Submission Deadline:** April 1, 2026  
+- **Paper Submission Deadline:** ~~April 1, 2026~~ April 5, 2026  
 - **Author Notification:** April 15, 2026  
 - **Camera-Ready Deadline:** TBD  
 
