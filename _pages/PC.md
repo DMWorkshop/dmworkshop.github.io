@@ -13,21 +13,21 @@ nav_order: 3
 The Program Committee is composed of experts in the field of social media and human behavior. 
 The committee is responsible for reviewing submissions and providing feedback to authors.
 
-#### (Confirmed) Program Committee
-
-**TBA**
-
-<!-- 
 <ul>
-    <li>Dino Pedreschi, University of Pisa, Italy</li>
-    <li>Letizia Milli, Università di Pisa, Italy</li>
-    <li>Veronica Mesina, Università di Pisa, Italy</li>
-    <li>Katherine Abramski, Università di Pisa, Italy</li>
-    <li>Massimo Stella, Università di Trento, Italy</li>
-    <li>Luca Pappalardo, CNR-ISTI, Italy</li>
-    <li>Laura Pollacci, Università di Pisa, Italy</li>
-    <li>Erica Cau, Università di Pisa, Italy</li>
-</ul> -->
+    <li>Lorenzo Mannocci, University of Pisa, Italy</li>
+    <li>Pooriya Jamie, University of California, Los Angeles (UCLA), USA</li>
+    <li>Andrea Failla, University of Pisa, Italy</li>
+    <li>Pietro Pietrini, IMT School for Advanced Studies, Lucca, Italy, Italy</li>
+    <li>Edoardo Di Martino, Sapienza University of Rome, Italy</li>
+    <li>Irene Sánchez Rodríguez, IMT School for Advanced Studies Lucca, Italy</li>
+    <li>Alessandro Galeazzi, University of Padova, Italy</li>
+    <li>Jade Portingale, University of Melbourne, Australia</li>
+    <li>Viet Cuong Nguyen, Georgia Institute of Technology, USA</li>
+    <li>Chico Camargo, University of Exeter, UK</li>
+    <li>Corrado Monti, CENTAI, Italy</li>
+    <li>Veronica Mesina, University of Pisa, Italy</li>
+    <li>Laura Pollacci, University of Pisa, Italy</li>
+</ul>
 
 ### Join the Program Committee
 
