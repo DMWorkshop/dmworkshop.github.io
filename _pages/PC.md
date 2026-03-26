@@ -7,9 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-
-### Program Committee
-
 The Program Committee is composed of experts in the field of social media and human behavior. 
 The committee is responsible for reviewing submissions and providing feedback to authors.
 
