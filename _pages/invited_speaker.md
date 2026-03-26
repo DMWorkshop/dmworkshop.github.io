@@ -9,4 +9,3 @@ nav_order: 4
 ---
 
 
-### Invited Speakers
