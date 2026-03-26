@@ -1,11 +1,8 @@
-
 ---
 layout: page
-permalink: /invited_speakers/
 title: Invited Speakers
-description: 
+permalink: /invited-speakers/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
-
 
