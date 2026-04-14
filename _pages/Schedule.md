@@ -25,8 +25,7 @@ Opening remarks
 
 ---
 
-### Session 1 — Mental Health Signals Detection & Representation  
-*Understanding and modeling mental health signals from online data*
+### Session 1 
 
 **10:00 – 10:55**  
 - 1 featured talk (20 min)  
@@ -37,8 +36,7 @@ Opening remarks
 
 ---
 
-### Session 2 — Contextual & Societal Drivers of Mental Health  
-*Exploring how online environments and social dynamics shape mental health*
+### Session 2 
 
 **11:05 – 12:05**  
 - 3 regular talks (15 min each)  
@@ -55,8 +53,7 @@ Opening remarks
 
 ---
 
-### Session 3 — Artificial Intelligence & Mental Health  
-*Auditing, designing, and evaluating AI systems for mental health*
+### Session 3 
 
 **14:10 – 15:25**  
 - 2 featured talks (20 min each)  
