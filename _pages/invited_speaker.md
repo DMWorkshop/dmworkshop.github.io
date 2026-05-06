@@ -22,4 +22,15 @@ Previously, he was a Senior Researcher at Microsoft Research Montréal in the FA
 
 <img src="../assets/img/speakers/krlerman.jpg" alt="Koustuv Saha" style="width:200px; border-radius:10px;">
 
-Kristina Lerman is a Professor of Informatics at Indiana University’s Luddy School of Informatics, Computing and Engineering and a fellow of the AAAI. Prior to joining Luddy, Kristina Lerman spent 27 years at the University of Southern California, most recently serving as a Senior Principal Scientist at USC Information Sciences Institute. Trained as a physicist, she uses AI, machine learning and network science to answer questions in computational social science. Her research explores how algorithms and platforms shape social behavior and human psychology, as well as access to information, attention and social support. Her work has been covered by the Washington Post, Wall Street Journal, and The Atlantic. 
+
+#### **Talk Title**
+**Social Media and Mental Health: An Evolutionary Mismatch**
+
+#### **Abstract**
+The widespread adoption of social media has coincided with growing mental health concerns, including rising anxiety, depression, and body image disturbances among youth. This talk argues that these outcomes stem from a mismatch between the technological affordances of social media and brains evolved for small-scale social life.
+
+Psychological processes that helped humans navigate ancestral environments — such as status seeking, social comparison, and self-evaluation — become harmful when made global, continuous, and quantified. Planetary-scale connectivity exposes users to highly curated realities that distort social norms, while quantified feedback mechanisms (likes, views, shares) transform online interaction into persistent status competition. The ubiquity of phone cameras further encourages self-objectification and continuous performance before an “imaginary audience.”
+
+The talk will also discuss how algorithmic recommendation systems amplify these dynamics by prioritizing emotionally engaging and envy-inducing content, particularly during adolescence, when sensitivity to peer evaluation is heightened. These mechanisms will be illustrated through case studies related to body image concerns on social media, including eating disorder–related pathologies among girls and young women centered on the thin ideal, and risky behaviors among boys and young men pursuing muscular body ideals.
+
+Overall, the talk reframes social media harms not primarily as a consequence of time spent online or addictive platform design, but as the result of platform affordances that systematically reshape social cognition and undermine mental health.
