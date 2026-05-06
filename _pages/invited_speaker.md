@@ -23,8 +23,7 @@ Previously, he was a Senior Researcher at Microsoft Research Montréal in the FA
 <img src="../assets/img/speakers/krlerman.jpg" alt="Koustuv Saha" style="width:200px; border-radius:10px;">
 
 
-#### **Talk Title**
-**Social Media and Mental Health: An Evolutionary Mismatch**
+#### **Social Media and Mental Health: An Evolutionary Mismatch**
 
 #### **Abstract**
 The widespread adoption of social media has coincided with growing mental health concerns, including rising anxiety, depression, and body image disturbances among youth. This talk argues that these outcomes stem from a mismatch between the technological affordances of social media and brains evolved for small-scale social life.
