@@ -7,76 +7,95 @@ nav: true
 nav_order: 4
 ---
 
-## 🧠 Digital Minds Workshop – May, 26 - ICWSM 2026 - LA (CA)  
+## 🧠 Digital Minds Workshop – May 26, 2026 – ICWSM 2026 – Los Angeles, CA  
 *Assessing the interplay of social media on mental health*
 
 ---
 
-### 🗓️ Program Overview
+## Program
 
-**08:00 – 08:30**  
-Registration and welcome  
-
-**08:30 – 09:00**  
-Opening remarks  
-
-**09:00 – 10:00**  
-🎤 1st Keynote Talk  (TBD)
+### 08:30 – 09:00  
+**Opening**
 
 ---
 
-### Session 1 
-
-**10:00 – 10:55**  
-- 1 featured talk (20 min)  
-- 2 regular talks (15 min each)  
-
-**10:55 – 11:05**  
-☕ Coffee Break  
+### 09:00 – 10:00  
+🎤 **Keynote 1**  
+**Kristina Lerman**  
+*Social Media and Mental Health: An Evolutionary Mismatch*
 
 ---
 
-### Session 2 
+## Session 1 — Mental Health Signals Detection & Representation
 
-**11:05 – 12:05**  
-- 3 regular talks (15 min each)  
+### 10:05 – 10:25  
+⭐ **Featured Talk**  
+*Mental Health Discourse on TikTok: Interpreting Multimodal Short-Form Videos at Scale*  
+**Mingyue Zha and Ho-Chun Herbert Chang**
 
----
+### 10:25 – 10:45  
+*Exploring Mental Health Discourse on Nordic and Baltic Reddit: A Multilingual Computational Study*  
+**Aparup Khatua**
 
-**12:05 – 13:05**  
-🍽️ Lunch Break  
+### 10:45 – 11:05  
+*Beyond Positive or Negative: How Mixed Emotions on Reddit Are Linked to Depressive Symptoms in Asian American Families*  
+**Sangpil Youm, Nari Yoo, Sou Hyun Jang and Bonnie Dorr**
 
----
-
-**13:05 – 14:10**  
-🎤 2nd Keynote Talk  (TBD)
-
----
-
-### Session 3 
-
-**14:10 – 15:25**  
-- 2 featured talks (20 min each)  
-- 3 regular talks (15 min each)  
+### 11:05 – 11:20  
+☕ **Coffee Break**
 
 ---
 
-**15:25 – 15:40**  
-Coffee break  
+## Session 2 — Contextual & Societal Drivers of Mental Health
+
+### 11:25 – 11:45  
+*Multilingual Safety Is Model-Dependent: An Audit of Digital Mediation of Harm-Related AI Queries*  
+**Vivek Vaidya, Saubhagya Joshi and Vivek Singh**
+
+### 11:45 – 12:05  
+*Are Gains Quiet and Losses Loud? Emotional Responses to Financial Booms and Crashes Online*  
+**Aryan Ramchandra Kapadia, Niharika Bhattacharjee, Mung Yao Jia, Ishq Gupta, Dong Wang and Koustuv Saha**
+
+### 12:05 – 12:25  
+*Analyzing Violations from Sexual Assault Stories on Reddit*  
+**Vaibhav Garg**
+
+### 12:30 – 13:30  
+🍽️ **Lunch Break**
 
 ---
 
-### 💬 Roundtable Discussion  
-**15:40 – 16:10**
+### 13:45 – 14:45  
+🎤 **Keynote 2**  
+**Koustuv Saha**  
+*AI, Social Media, and the Future of Wellbeing: Promises and Perils*
 
 ---
 
-### 🔚 Closing Remarks  
-**16:10 – 16:20**
+## Session 3 — Artificial Intelligence & Mental Health
+
+### 14:50 – 15:10  
+*Paired-Agent Auditing and Refinement of AI Mental Health Support*  
+**Jiwon Kim, Violeta Rodriguez, Dong Whi Yoo, Eshwar Chandrasekharan and Koustuv Saha**
+
+### 15:10 – 15:30  
+*The Gravity Well: Return-Cost Asymmetry and Hubness in Mental Health Recommender Systems*  
+**Om Kotadia**
+
+### 15:30 – 15:50  
+*AI Content Moderation in Therapy Conversations*  
+**Jiwon Kim, Claire Wang, Taeung Yoon, Sabelle Huang and Koustuv Saha**
+
+### 15:50 – 16:10  
+*A Responsible LLM-RAG Social-Semantic Knowledge Graph Framework for Monitoring Youth Wellness and Vulnerabilities Across Multimodal Social Platforms*  
+**Cameron Hajaliloo, Antonio Coelho, Lanyu Shang and Junyuan Lin**
 
 ---
 
-### 📌 Note
-A detailed program with full paper titles and speakers will be released soon.
+### 16:20 – 16:50  
+💬 **Discussion**
+
+### 16:50 – 17:00  
+**Closing Remarks**
 
 
