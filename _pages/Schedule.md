@@ -12,8 +12,6 @@ nav_order: 4
 
 ---
 
-## Program
-
 ### 08:30 – 09:00  
 **Opening**
 
