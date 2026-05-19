@@ -160,8 +160,6 @@ nav_order: 4
     <p class="schedule-main-subtitle">Assessing the interplay of social media on mental health</p>
   </div>
 
-  <h2 class="schedule-day">Tuesday, May 26</h2>
-
   <div class="schedule-block">
     <div class="schedule-time">08:30 AM — 09:00 AM</div>
     <div class="schedule-content">
@@ -184,7 +182,7 @@ nav_order: 4
   <div class="schedule-block">
     <div class="schedule-time">10:05 AM — 10:25 AM</div>
     <div class="schedule-content">
-      <span class="badge badge-light">Featured Talk</span>
+      <span class="badge badge-light">Talk</span>
       <div class="schedule-paper"><em>Mental Health Discourse on TikTok: Interpreting Multimodal Short-Form Videos at Scale</em></div>
       <div class="schedule-authors">Mingyue Zha and Ho-Chun Herbert Chang</div>
     </div>
@@ -267,7 +265,7 @@ nav_order: 4
   <div class="schedule-block">
     <div class="schedule-time">02:50 PM — 03:10 PM</div>
     <div class="schedule-content">
-      <span class="badge badge-light">Featured Talk</span>
+      <span class="badge badge-light">Talk</span>
       <div class="schedule-paper"><em>Paired-Agent Auditing and Refinement of AI Mental Health Support</em></div>
       <div class="schedule-authors">Jiwon Kim, Violeta Rodriguez, Dong Whi Yoo, Eshwar Chandrasekharan and Koustuv Saha</div>
     </div>
@@ -276,7 +274,7 @@ nav_order: 4
   <div class="schedule-block">
     <div class="schedule-time">03:10 PM — 03:30 PM</div>
     <div class="schedule-content">
-      <span class="badge badge-light">Featured Talk</span>
+      <span class="badge badge-light">Talk</span>
       <div class="schedule-paper"><em>The Gravity Well: Return-Cost Asymmetry and Hubness in Mental Health Recommender Systems</em></div>
       <div class="schedule-authors">Om Kotadia</div>
     </div>
