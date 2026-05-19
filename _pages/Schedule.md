@@ -107,6 +107,20 @@ nav_order: 4
   margin: 2.8rem 0 0.8rem 0;
 }
 
+.session-chair {
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--dm-muted);
+  margin: -0.4rem 0 1rem 0;
+}
+
+.schedule-speaker {
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--dm-muted);
+  margin-top: 0.25rem;
+}
+
 .badge {
   display: inline-block;
   padding: 0.34rem 0.9rem;
@@ -165,6 +179,7 @@ nav_order: 4
     <div class="schedule-content">
       <span class="badge badge-light">Opening</span>
       <span class="schedule-title">Opening</span>
+      <div class="schedule-speaker">Speaker: Virginia Morini</div>
     </div>
   </div>
 
@@ -178,7 +193,7 @@ nav_order: 4
   </div>
 
   <h3 class="session-heading">Session 1 — Mental Health Signals Detection &amp; Representation</h3>
-
+  <div class="session-chair">Chair: Virginia Morini</div>
   <div class="schedule-block">
     <div class="schedule-time">10:05 AM — 10:25 AM</div>
     <div class="schedule-content">
@@ -215,7 +230,7 @@ nav_order: 4
   </div>
 
   <h3 class="session-heading">Session 2 — Contextual &amp; Societal Drivers of Mental Health</h3>
-
+  <div class="session-chair">Chair: Pooriya Jamie</div>
   <div class="schedule-block">
     <div class="schedule-time">11:25 AM — 11:45 AM</div>
     <div class="schedule-content">
@@ -261,7 +276,7 @@ nav_order: 4
   </div>
 
   <h3 class="session-heading">Session 3 — Artificial Intelligence &amp; Mental Health</h3>
-
+  <div class="session-chair">Chair: Valentina Pansanella</div>
   <div class="schedule-block">
     <div class="schedule-time">02:50 PM — 03:10 PM</div>
     <div class="schedule-content">
