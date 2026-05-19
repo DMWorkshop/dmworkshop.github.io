@@ -169,11 +169,6 @@ nav_order: 4
 
 <div class="schedule-page">
 
-  <div class="schedule-header">
-    <h1 class="schedule-main-title">🧠 Digital Minds Workshop – May 26, 2026 – ICWSM 2026 – Los Angeles, CA</h1>
-    <p class="schedule-main-subtitle">Assessing the interplay of social media on mental health</p>
-  </div>
-
   <div class="schedule-block">
     <div class="schedule-time">08:30 AM — 09:00 AM</div>
     <div class="schedule-content">
