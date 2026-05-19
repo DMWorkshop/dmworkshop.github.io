@@ -18,10 +18,18 @@ A significant part of his research examines wellbeing in situated contexts such 
 
 Previously, he was a Senior Researcher at Microsoft Research Montréal in the FATE group. He received his Ph.D. in Computer Science from Georgia Tech and his B.Tech in Computer Science and Engineering from IIT Kharagpur, and brings additional industry research experience from his pre-PhD career.
 
+#### **AI, Social Media, and the Future of Wellbeing: Promises and Perils**
+
+#### **Abstract**
+A core aspect of our social lives is shaped by the communities, platforms, and relationships in which we are embedded. Our shared experiences, social ties, and everyday online interactions intertwine our situated context with our wellbeing. Understanding wellbeing within context allows us to design more timely, personalized, and responsive forms of support. Yet, traditional methods of assessing wellbeing—such as surveys and self-reports—capture only snapshots of lived experiences.
+Recent advances in social media and multimodal sensing offer new ways to measure wellbeing passively and continuously. Social media can serve as a “passive sensor,” reflecting the rhythms of our emotional and social worlds, while wearable and behavioral data provide complementary insights. But as these data-driven approaches grow in power, they also raise deep questions about validity, meaning, and harm. What do these measurements truly capture? Whose experiences do they miss? And when do they fail?
+Today, a new shift is underway—from measuring wellbeing to explaining and mediating it. The rise of AI companions and conversational agents has introduced new possibilities for providing real-time, scalable support for mental health. Drawing on recent projects exploring computational and causal approaches to social media and multimodal sensing, AI-driven mental health support for caregivers, and human–AI comparisons in online support, this talk will discuss how large language models can both enhance and endanger wellbeing, depending on how they are designed, evaluated, and deployed. The talk will conclude by outlining a research agenda for responsible computational mental health: one that moves beyond prediction toward causal, contextual, and human-centered systems that support wellbeing while minimizing harm.
+
 ## Kristina Lerman
 
 <img src="../assets/img/speakers/krlerman.jpg" alt="Koustuv Saha" style="width:200px; border-radius:10px;">
 
+Kristina Lerman is a Professor of Informatics at Indiana University’s Luddy School of Informatics, Computing and Engineering and a fellow of AAAI. Prior to joining Indiana University, she spent 27 years at the University of Southern California, most recently serving as a Senior Principal Scientist at USC Information Sciences Institute. Trained as a physicist, she uses AI, machine learning and network science to answer questions in computational social science. Her research explores how algorithms and platforms shape social behavior and human psychology, as well as access to information, attention and social support. Her work has been covered by the Washington Post, Wall Street Journal, and The Atlantic.
 
 #### **Social Media and Mental Health: An Evolutionary Mismatch**
 
